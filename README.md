@@ -4,6 +4,7 @@
 - 💞️ Follow all my repositories for detailed commits of my work
 - 📫 Reach me on X @baddug for all the coding needs & for some chitchat
 - ⚡ LIVE -- EAT -- CODE -- SLEEP
+  [![BADDs GitHub stats](https://github-readme-stats.vercel.app/api?username=naughtyug)](https://github.com/naughtyug/github-readme-stats)
 
 <!---
 naughtyug/naughtyug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
