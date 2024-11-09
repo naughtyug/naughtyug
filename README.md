@@ -10,19 +10,11 @@
 </a>
 <a href="https://github.com/naughtyug/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naughtyug&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-  
-  [![BADDs GitHub stats](https://github-readme-stats.vercel.app/api?username=naughtyug)](https://github.com/naughtyug/github-readme-stats)                                                                                       
-
+</a>                                                                                    
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naughtyug&hide_progress=true)
-
-
-  ![BADD's GitHub stats](https://github-readme-stats.vercel.app/api?username=naughtyug&show_icons=true)
-
-
-  ![BADD's GitHub stats](https://github-readme-stats.vercel.app/api?username=naughtyug&show_icons=true&theme=dark)
+![BADD's GitHub stats](https://github-readme-stats.vercel.app/api?username=naughtyug&show_icons=true)
+![BADD's GitHub stats](https://github-readme-stats.vercel.app/api?username=naughtyug&show_icons=true&theme=dark)
 
 
 
