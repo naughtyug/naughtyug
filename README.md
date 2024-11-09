@@ -6,7 +6,10 @@
 - ⚡ LIVE -- EAT -- CODE -- SLEEP
 
   
-  [![BADDs GitHub stats](https://github-readme-stats.vercel.app/api?username=naughtyug)](https://github.com/naughtyug/github-readme-stats)
+  [![BADDs GitHub stats](https://github-readme-stats.vercel.app/api?username=naughtyug)](https://github.com/naughtyug/github-readme-stats)                                                                                       
+
+
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 
   ![BADD's GitHub stats](https://github-readme-stats.vercel.app/api?username=naughtyug&show_icons=true)
